@@ -1,8 +1,12 @@
 # Code-Quiz
 
+## The Project
+I created a quiz for on JavaScript, HTML and CSS fundamentals that stores high scores.
+This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code. 
+
 ## User Story 
 AS A coding boot camp student
-I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
+I WANT to take a timed quiz on JavaScript, HTML and CSS fundamentals that stores high scores
 SO THAT I can gauge my progress compared to my peers
 
 ## Acceptance Criteria
